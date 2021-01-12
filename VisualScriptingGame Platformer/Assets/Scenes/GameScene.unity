@@ -164,12 +164,12 @@ GameObject:
   - component: {fileID: 185742852}
   - component: {fileID: 185742851}
   m_Layer: 5
-  m_Name: YOU DIED txt
+  m_Name: Press R To Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &185742850
 RectTransform:
   m_ObjectHideFlags: 0
@@ -505,7 +505,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &461014929
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1062,12 +1062,12 @@ GameObject:
   - component: {fileID: 952074925}
   - component: {fileID: 952074924}
   m_Layer: 5
-  m_Name: YOU DIED txt
+  m_Name: YOU DIED
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &952074923
 RectTransform:
   m_ObjectHideFlags: 0
