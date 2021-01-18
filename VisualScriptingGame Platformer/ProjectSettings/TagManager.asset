@@ -15,7 +15,7 @@ TagManager:
   - 
   - Floor
   - Hazards
-  - 
+  - Collectible
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2996961095
+    locked: 0
+  - name: Collectible
+    uniqueID: 2099846611
     locked: 0
