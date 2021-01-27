@@ -9708,11 +9708,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"player","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"sceneManager","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"gameManager","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"player","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"sceneManager","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"gameManager","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"backgroundSky","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 849768668}
     - {fileID: 521349666}
     - {fileID: 1747410404}
+    - {fileID: 1333359126}
 --- !u!4 &981635420
 Transform:
   m_ObjectHideFlags: 0
