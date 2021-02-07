@@ -7613,7 +7613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 1
+  m_FalloffIntensity: 0.942
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_LightVolumeOpacity: 0
@@ -7626,8 +7626,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensity: 0
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 1
-  m_PointLightOuterRadius: 12.59
+  m_PointLightInnerRadius: 2
+  m_PointLightOuterRadius: 20
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -12091,8 +12091,8 @@ Transform:
   - {fileID: 1653158191}
   - {fileID: 28588192}
   - {fileID: 276087084}
-  - {fileID: 830535609}
   - {fileID: 30300852}
+  - {fileID: 830535609}
   - {fileID: 1855840118}
   - {fileID: 258659909}
   - {fileID: 1229912012}
@@ -20380,27 +20380,27 @@ Transform:
   m_Children:
   - {fileID: 566628382}
   - {fileID: 1071226775}
-  - {fileID: 230024253}
-  - {fileID: 775387774}
-  - {fileID: 677140276}
-  - {fileID: 2115299183}
-  - {fileID: 1625752642}
-  - {fileID: 1394123040}
+  - {fileID: 634158813}
   - {fileID: 432176230}
-  - {fileID: 1972752659}
+  - {fileID: 1768203964}
+  - {fileID: 1687744698}
+  - {fileID: 775387774}
+  - {fileID: 1394123040}
+  - {fileID: 459620111}
   - {fileID: 1127555477}
   - {fileID: 1732179133}
-  - {fileID: 916767788}
-  - {fileID: 1607825636}
-  - {fileID: 678281447}
-  - {fileID: 1687744698}
   - {fileID: 1556107650}
-  - {fileID: 459620111}
-  - {fileID: 966858655}
+  - {fileID: 230024253}
+  - {fileID: 916767788}
+  - {fileID: 1972752659}
+  - {fileID: 1625752642}
   - {fileID: 1801016301}
-  - {fileID: 634158813}
+  - {fileID: 678281447}
+  - {fileID: 966858655}
+  - {fileID: 1607825636}
+  - {fileID: 677140276}
   - {fileID: 1047608610}
-  - {fileID: 1768203964}
+  - {fileID: 2115299183}
   - {fileID: 904408159}
   - {fileID: 1399901936}
   - {fileID: 1969276998}
@@ -33290,8 +33290,8 @@ Transform:
   - {fileID: 2034137216}
   - {fileID: 487419605}
   - {fileID: 1096301115}
-  - {fileID: 1318997136}
   - {fileID: 336569557}
+  - {fileID: 1318997136}
   - {fileID: 733443651}
   - {fileID: 1679921573}
   - {fileID: 531495731}
@@ -38826,7 +38826,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1241081147
 Transform:
   m_ObjectHideFlags: 0
@@ -40964,7 +40964,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1316921291
 Transform:
   m_ObjectHideFlags: 0
